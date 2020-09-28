@@ -58,9 +58,9 @@ This notebook is to showcases:
 - It indicates strong evidence against the null hypothesis, as there is less than a 5% probability the null is correct (and the results are random).
 - These features have hight impact towards the target variable. A pseudo R-square value (McFadden's Pseudo R-Squared Value) of 0.55 represents an excellent fit.
 
-#### Model-2: Naive Bayes Classifier
+### Model-2: Naive Bayes Classifier
 
-#### Model-3: K-Nearest Neighbor Classifier
+### Model-3: K-Nearest Neighbor Classifier
 
 ### Model-4: Decision Tree Classifier
 
