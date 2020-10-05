@@ -1,6 +1,8 @@
 # Airline Customer Satisfaction Survey Results
-
- 
+Customer Insights
+ ![Customer Loyalty](https://github.com/jhenvi/Airline_survey_Insights/blob/master/Images/CustomerLoyalty.png)
+ ![Average Passanger satisfaction](https://github.com/jhenvi/Airline_survey_Insights/blob/master/Images/averagePassangerSatisfaction.png)
+ ![Correlation](https://github.com/jhenvi/Airline_survey_Insights/blob/master/Images/correlationAmongFeatures.png)
 # Customer Satisfaction Analysis and Prediction
 
 This notebook is to showcases:
